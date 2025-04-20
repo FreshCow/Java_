@@ -6,7 +6,7 @@ public class AccessMain {
         acessData.publicField = 12;
         acessData.publicMethod();
 
-        acessData.defaultField = 5;
+        acessData.defaultField = 10;
         acessData.defaultMethod();
 
         acessData.innerAccess();

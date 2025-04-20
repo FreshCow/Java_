@@ -19,7 +19,7 @@ public class AcessData {
 
     public void innerAccess(){
         System.out.println("내부호출");
-        publicField = 100;
+        publicField = 200;
         defaultField = 100;
         privateField = 300;
         publicMethod();

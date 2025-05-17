@@ -1,4 +1,4 @@
-package poly.ex5;
+package poly.basic.ex5;
 
 public class Caw implements InterfaceAnimal {
     @Override

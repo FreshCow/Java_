@@ -1,4 +1,4 @@
-package poly.ex5;
+package poly.basic.ex5;
 
 public interface InterfaceAnimal {
     void sound(); //public abstract

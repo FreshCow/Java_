@@ -1,6 +1,7 @@
 package poly.basic.ex5;
 
-public class Dog implements InterfaceAnimal {
+public class Dog implements InterfaceAnimal{
+
     @Override
     public void sound() {
         System.out.println("멍멍");
@@ -8,6 +9,6 @@ public class Dog implements InterfaceAnimal {
 
     @Override
     public void move() {
-        System.out.println("개 이동");
+        System.out.println("강아지가 이등합니다.");
     }
 }
